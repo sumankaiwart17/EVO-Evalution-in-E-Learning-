@@ -1,0 +1,7 @@
+[13-Feb-2021 14:34:49 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home3/saaslms/public_html/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[13-Feb-2021 14:35:00 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home3/saaslms/public_html/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[13-Feb-2021 14:35:13 UTC] PHP Parse error:  syntax error, unexpected '?', expecting variable (T_VARIABLE) in /home3/saaslms/public_html/vendor/phpunit/phpunit/src/Framework/Assert/Functions.php on line 177
+[14-Mar-2021 09:46:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function dd() in /home3/saaslms/public_html/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home3/saaslms/public_html/index.php on line 2
